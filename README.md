@@ -19,6 +19,7 @@ ls
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083219](https://github.com/user-attachments/assets/b13df957-af1c-4787-b50f-cb9cf9560cf1)
 
 ### 2. `pwd` Command
 
@@ -30,6 +31,7 @@ pwd
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083251](https://github.com/user-attachments/assets/04554911-01d8-48e4-9979-a91c9e47254c)
 
 ### 3. `mkdir` Command
 
@@ -41,6 +43,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083307](https://github.com/user-attachments/assets/ae4e65bf-e4e7-479c-9de9-1ad2d66277ac)
 
 ### 4. `rmdir` Command
 
@@ -52,6 +55,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083741](https://github.com/user-attachments/assets/4280e074-2d2f-4d5d-89e6-d0509223722f)
 
 ### 5. `cd` Command
 
@@ -63,6 +67,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083751](https://github.com/user-attachments/assets/70f2c586-ffb0-4919-9494-aa050fd36dab)
 
 ### 6. `cat` Command
 
@@ -74,6 +79,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083812](https://github.com/user-attachments/assets/aa56eea5-dabf-49c1-8932-bd1d05dc4aa2)
 
 ### 7. `cp` Command
 
@@ -85,6 +91,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083841](https://github.com/user-attachments/assets/ee54d16e-35d4-47c7-a1d7-79ee1c97f51b)
 
 ### 8. `gedit` Command
 
@@ -96,6 +103,7 @@ gedit <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083855](https://github.com/user-attachments/assets/c04602f4-fc06-4844-93ad-cca033f43cf9)
 
 ### 9. `su` Command
 
@@ -107,6 +115,7 @@ su <username>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083910](https://github.com/user-attachments/assets/1d107401-3145-4ea7-994c-5b0f252a3511)
 
 ### 10. `mv` Command
 
@@ -118,6 +127,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083922](https://github.com/user-attachments/assets/0ac3d858-6fbf-4e44-b9fe-6ffb9c27fa2c)
 
 ### 11. `rename` Command
 
